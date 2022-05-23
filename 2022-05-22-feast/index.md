@@ -9,11 +9,5 @@
 * 学习笔记，技术文档的输出
 * 英语相关
 
-## 参考
-* [FixIt](https://fixit.lruihao.cn/zh-cn/theme-documentation-basics/)
-* [whuwangyong](https://github.com/whuwangyong/whuwangyong.github.io/tree/hugo-loveit)
-* [wuda](https://whuwangyong.github.io/)
-* [hugo](https://gohugo.io/)
-* [hugo themes](https://themes.gohugo.io/)
-P.S. 小图片可以直接提交，其他引用图片可以使用图床
+
 
