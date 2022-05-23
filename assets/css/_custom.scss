@@ -1,0 +1,49 @@
+// ==============================
+// Custom style
+// 自定义样式
+// ==============================
+
+// >>> add this because https://github.com/dillonzq/LoveIt/issues/311
+// img[data-sizes="auto"] {
+//     display: block;
+//     width: 100%;
+// }
+// <<<
+
+// >>> 更改页面宽度。LoveIt主题的太窄，FixIt默认的（60+20+20）又太宽。
+// 改为56+22+22=100
+// 屏幕宽度大于1441px
+@media only screen and (min-width: 1441px) {
+    [page-style='custom'] {
+      .page {
+        width: 54%;
+      }
+  
+      // 可以不写，自动计算
+      aside {
+        width: 23%;
+      }
+    }
+  }
+  
+  // 屏幕宽度小于1440px
+  @media only screen and (max-width: 1440px) {
+    [page-style='custom'] {
+      .page {
+        width: 60%;
+      }
+  
+      aside {
+        width: 20%;
+      }
+    }
+  }
+// <<<
+
+// 给引用块添加背景色
+// .single .content blockquote {
+//   background-color: #f7f7f7;
+//   [theme='dark'] & {
+//       background-color: #141d1d;
+//   }
+// }
