@@ -115,7 +115,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
-  images = ["/avatar150x150.jpg"]
+  images = ["/images/avatar150x150.jpg"]
 
 
 
