@@ -63,13 +63,6 @@ enableEmoji = true
     url = "/categories/"
     title = ""
     weight = 3
-  #[[menu.main]]
-    #identifier = "links"
-    #pre = ""
-    #name = "友链"
-    #url = "/links/"
-    #title = "友情链接"
-    #weight = 4
   [[menu.main]]
     identifier = "about"
     pre = ""
@@ -78,6 +71,13 @@ enableEmoji = true
     url = "/about/"
     title = ""
     weight = 5
+  [[menu.main]]
+    identifier = "donate"
+    pre = ""
+    name = "打赏"
+    url = "/donate/"
+    title = ""
+    weight = 4
   [[menu.main]]
     identifier = "github"
     pre = "<i class='fab fa-github fa-fw'></i>"
