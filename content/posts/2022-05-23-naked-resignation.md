@@ -1,5 +1,5 @@
 ---
-title: "裸辞满月记录"
+title: "裸辞记录"
 date: 2022-05-23
 tags: ["生活"]
 categories: ["杂文"]
